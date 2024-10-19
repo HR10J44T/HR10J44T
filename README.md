@@ -12,7 +12,8 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 ## 💻 Current Projects
 - **🔐 Cyber Defender Toolkit**: A suite of tools for penetration testing and vulnerability assessment.
 - **🤖 AI-based Threat Detection**: Using machine learning models to predict and mitigate security threats in real time.
-- **📱 Flutter Mobile Apps**: Developing cross-platform applications to enhance user experience and accessibility.
+- **📱 Environment Article & Newsletter App**: An application dedicated to promoting environmental awareness and sharing related articles and newsletters.
+- **🏇 Equestrian Eventing App**: A mobile application tailored for equestrian eventing, enhancing the experience for riders and enthusiasts.
 - **👨‍🏫 Ethical Hacking Tutorials**: Open-source guides to becoming a skilled ethical hacker.
 
 ## 🔧 Tech Stack
