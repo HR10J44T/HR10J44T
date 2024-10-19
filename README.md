@@ -42,4 +42,9 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 - 📱 I create user-friendly apps that solve real-world problems with Flutter.
 - 🎯 I’m constantly on a mission to automate security processes with AI.
 
+## 📫 Contact Me
+- 📧 Email: [hr10j44t@gmail.com](mailto:hr10j44t@gmail.com)
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+
 ## 🕶️ HACK THE PLANET!
