@@ -33,8 +33,9 @@ Welcome to my GitHub profile! I am dedicated to merging **cybersecurity**, **art
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ## ⚡ Fun Facts
 - I enjoy reverse-engineering software to discover vulnerabilities.
