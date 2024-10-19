@@ -2,7 +2,7 @@
 
 Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
 
-![HR10J44T Banner](https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png)
+<img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" width="800" height="300">
 
 ## 🚀 About Me
 - 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
@@ -17,26 +17,21 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 - **👨‍🏫 Ethical Hacking Tutorials**: Open-source guides to becoming a skilled ethical hacker.
 
 ## 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-01579B?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-</p>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-01579B?style=flat&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🧠 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D)
+</div>
 
 ## ⚡ Fun Facts
 - 💻 I love reverse-engineering software to understand its weaknesses.
