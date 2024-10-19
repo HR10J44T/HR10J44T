@@ -34,11 +34,12 @@ Welcome to my GitHub profile! I am dedicated to merging **cybersecurity**, **art
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 ## ⚡ Fun Facts
 - I enjoy reverse-engineering software to discover vulnerabilities.
