@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am dedicated to merging **cybersecurity**, **artificial intelligence**, and **mobile app development** to create innovative solutions and improve user experiences.
 
-![HR10J44T Banner](https://user-images.githubusercontent.com/XXX/your-banner.png) <!-- Add your custom banner here -->
+![HR10J44T Banner](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/your-banner.png) <!-- Add your custom banner here -->
 
 ---
 
