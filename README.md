@@ -1,20 +1,23 @@
-# 👨‍💻 HR10J44T | Ethical Hacker, AI/ML Enthusiast & Developer ⚙️
+# 👨‍💻 HR10J44T | Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer ⚙️
 
-Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, and **ethical hacking**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
+Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
 
 ![HR10J44T Banner](https://user-images.githubusercontent.com/XXX/your-banner.png) <!-- Add your custom banner here -->
 
 ## 🚀 About Me
-- 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Cybersecurity Enthusiast
-- 🌐 **Skills**: Python, JavaScript, C++, Bash, Machine Learning, Deep Learning, Offensive Security
-- 🛡️ **Passion**: Protecting the digital space, one line of code at a time.
+- 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
+- 🌐 **Skills**: Python, JavaScript, C++, Bash, Flutter, Dart, Android Development, Machine Learning, Deep Learning, Offensive Security
+- 🛡️ **Passion**: Protecting the digital space, one line of code at a time, while creating amazing mobile experiences.
 
 ## 💻 Current Projects
 - **🔐 Cyber Defender Toolkit**: A suite of tools for penetration testing and vulnerability assessment.
 - **🤖 AI-based Threat Detection**: Using machine learning models to predict and mitigate security threats in real time.
+- **📱 Flutter Mobile Apps**: Developing cross-platform applications to enhance user experience and accessibility.
 - **👨‍🏫 Ethical Hacking Tutorials**: Open-source guides to becoming a skilled ethical hacker.
 
 ## 🔧 Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-01579B?style=flat&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -29,7 +32,7 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 
 ## ⚡ Fun Facts
 - 💻 I love reverse-engineering software to understand its weaknesses.
-- 👨‍🏫 I share ethical hacking techniques on my [YouTube channel](#).
+- 📱 I create user-friendly apps that solve real-world problems with Flutter.
 - 🎯 I’m constantly on a mission to automate security processes with AI.
 
 ## 🕶️ HACK THE PLANET!
