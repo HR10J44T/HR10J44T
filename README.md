@@ -30,10 +30,12 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🧠 GitHub Stats
+## 🧠 GitHub Stats
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D)
+  <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </div>
+
 
 ## ⚡ Fun Facts
 - 💻 I love reverse-engineering software to understand its weaknesses.
