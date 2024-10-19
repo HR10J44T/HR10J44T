@@ -1,8 +1,9 @@
 # 👨‍💻 HR10J44T | Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer ⚙️
 
 Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
-
+<div align="center">
 <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" width="250" height="250">
+</div>
 
 ## 🚀 About Me
 - 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
