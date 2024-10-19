@@ -2,7 +2,7 @@
 
 Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
 
-![HR10J44T Banner](https://raw.githubusercontent.com/username/repo/main/HR10J44T.png) <!-- Replace with your image URL -->
+![HR10J44T Banner](https://raw.githubusercontent.com/HR10J44T/repo/main/HR10J44T.png) <!-- Replace with your image URL -->
 
 ## 🚀 About Me
 - 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
