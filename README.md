@@ -29,7 +29,7 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 🧠 GitHub Stats
+
 ## 🧠 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical" alt="GitHub Stats">
