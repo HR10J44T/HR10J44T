@@ -6,7 +6,7 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 
 ## 🚀 About Me
 - 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
-- 🌐 **Skills**: Python, JavaScript, C++, Bash, Flutter, Dart, Android Development, Machine Learning, Deep Learning, Offensive Security
+- 🌐 **Skills**: Python, JavaScript, C++, Bash, Flutter, Dart, Android Development, Android Studio, Machine Learning, Deep Learning, Offensive Security
 - 🛡️ **Passion**: Protecting the digital space, one line of code at a time, while creating amazing mobile experiences.
 
 ## 💻 Current Projects
@@ -18,6 +18,7 @@ Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learni
 ## 🔧 Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-01579B?style=flat&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
