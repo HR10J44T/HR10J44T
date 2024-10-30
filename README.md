@@ -6,10 +6,8 @@
 
 Welcome to my **cyber den** 👾 where innovation meets **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I thrive on uncovering vulnerabilities and building powerful, AI-driven solutions to push boundaries in the digital world.
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/DHBGehJ3FSZEygszX3" width="300" height="300" frameBorder="0" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/pixelart-pixelplanet-pixelplanettoday-DHBGehJ3FSZEygszX3">via GIPHY</a></p>
-</div>
+![GIPHY](https://media.giphy.com/media/DHBGehJ3FSZEygszX3/giphy.gif)
+
 
 ## 🚀 About Me
 - 🧑‍💻 **Role**: Ethical Hacker | AI/ML Developer | Flutter & Android Developer | Cybersecurity Enthusiast
