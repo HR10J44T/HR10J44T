@@ -42,12 +42,13 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 
 ### Operating Systems
-- ![Windows](https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_-_2021.svg) **Windows**
+- ![Windows](https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_logo_-_2012.svg) **Windows**
 - ![Linux](https://upload.wikimedia.org/wikipedia/commons/d/db/Linux_logo.svg) **Linux**
-- ![macOS](https://upload.wikimedia.org/wikipedia/commons/d/d5/MacOS_wordmark.svg) **macOS**
-- ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/2/26/Ubuntu_logo_and_wordmark.svg) **Ubuntu**
-- ![Fedora](https://upload.wikimedia.org/wikipedia/commons/5/5c/Fedora_logo.svg) **Fedora**
+- ![macOS](https://upload.wikimedia.org/wikipedia/commons/7/7e/MacOS_Sierra_Logo.png) **macOS**
+- ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ubuntu_logo_and_wordmark.svg) **Ubuntu**
+- ![Fedora](https://upload.wikimedia.org/wikipedia/commons/6/6e/Fedora_logo.svg) **Fedora**
 - ![Debian](https://upload.wikimedia.org/wikipedia/commons/e/ec/Debian_logo.svg) **Debian**
+
 
 ---
 
