@@ -45,6 +45,9 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) Windows
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux
 - ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) macOS
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu
+- ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white) Fedora
+- ![Debian](https://img.shields.io/badge/-Debian-A81D24?style=flat&logo=debian&logoColor=white) Debian
 
 ---
 
