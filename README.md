@@ -41,6 +41,11 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) PostgreSQL
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 
+### Operating Systems
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) Windows
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux
+- ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) macOS
+
 ---
 
 ## 📈 GitHub Stats
