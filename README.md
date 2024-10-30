@@ -45,10 +45,10 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 ## 📈 GitHub Stats
 
-<div align="center">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical)
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
+
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical)
+
 
 ---
 
