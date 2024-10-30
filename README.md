@@ -44,13 +44,12 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical" alt="Your Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HR10J44T&theme=radical" alt="Wakatime Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=HR10J44T&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=HR10J44T&theme=radical" alt="Most Commit Language" />
-</div>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
+
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HR10J44T&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
 
