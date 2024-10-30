@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HR10J44T&color=blueviolet)
 
 <p align="center">
-    <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" width="800"/> <!-- Replace with your image URL -->
+    <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" height="250" width="250"/> <!-- Replace with your image URL -->
 </p>
 
 ## 👨‍💻 About Me
