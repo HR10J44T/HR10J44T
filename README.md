@@ -2,16 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HR10J44T&color=blueviolet)
 
+<p align="center">
+    <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" width="800"/> <!-- Replace with your image URL -->
+</p>
+
 ## 👨‍💻 About Me
 
-I am an **Ethical Hacker** with a passion for **AI, machine learning, Flutter, and Android development**. I love to explore new technologies and improve my skills. Currently, I am focused on building secure applications and advancing my knowledge in cybersecurity.
+I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a passion for **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I love to explore new technologies and improve my skills. Currently, I am focused on developing innovative solutions that make a difference.
 
-- 🔭 I’m currently working on an **AI-based threat detection system**.
-- 🌱 I’m currently learning **advanced machine learning techniques**.
-- 👯 I’m looking to collaborate on **cybersecurity projects and mobile app development**.
-- 💬 Ask me about **ethical hacking, mobile development, and AI**.
+- 🔭 I’m currently working on **Cyber Defender Toolkit** and **AI-based Threat Detection** projects.
+- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
+- 👯 I’m looking to collaborate on **cybersecurity projects** and **mobile app development**.
+- 💬 Ask me about **ethical hacking** and **AI technologies**.
 - 📫 How to reach me: [hr10j44t@gmail.com](mailto:hr10j44t@gmail.com)
-- ⚡ Fun fact: I love reverse-engineering software to understand its weaknesses!
+- ⚡ Fun fact: I love reverse-engineering software to understand its weaknesses.
 
 ---
 
@@ -21,47 +25,49 @@ I am an **Ethical Hacker** with a passion for **AI, machine learning, Flutter, a
 - Python
 - JavaScript
 - C++
+- Dart
 
 ### Frameworks & Libraries
 - Flutter
 - TensorFlow
-- Django
+- Android Studio
 
 ### Tools & Platforms
-- Android Studio
 - Git
 - Docker
+- Kali Linux
 
 ### Databases
 - PostgreSQL
-- MongoDB
+- MySQL
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
-
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical)
+<div align="center">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=radical)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=radical)
+</div>
 
 ---
 
 ## 🗂️ Featured Projects
 
-### [AI-based Threat Detection System](link-to-your-project)
-- **Description:** A system that uses machine learning to detect and mitigate security threats.
-- **Technologies Used:** Python, TensorFlow, Scikit-Learn
-- **Features:** Real-time threat analysis, alert notifications, and user-friendly interface.
+### [Cyber Defender Toolkit](https://github.com/HR10J44T/Cyber-Defender-Toolkit)
+- **Description:** A suite of tools for penetration testing and vulnerability assessment.
+- **Technologies Used:** Python, Bash
+- **Features:** Real-time scanning, vulnerability assessment, reporting tools.
 
-### [Environment Article & Newsletter App](link-to-your-project)
-- **Description:** An application that promotes environmental awareness through articles and newsletters.
+### [AI-based Threat Detection](https://github.com/HR10J44T/AI-Threat-Detection)
+- **Description:** Using machine learning models to predict and mitigate security threats in real time.
+- **Technologies Used:** Python, TensorFlow
+- **Features:** Predictive analytics, real-time monitoring.
+
+### [Equestrian Eventing App](https://github.com/HR10J44T/Equestrian-App)
+- **Description:** A mobile application tailored for equestrian eventing, enhancing the experience for riders and enthusiasts.
 - **Technologies Used:** Flutter, Dart
-- **Features:** Article sharing, newsletter subscription, and push notifications.
-
-### [Equestrian Eventing App](link-to-your-project)
-- **Description:** A mobile application designed for equestrian eventing enthusiasts.
-- **Technologies Used:** Flutter, Firebase
-- **Features:** Event scheduling, rider profiles, and competition tracking.
+- **Features:** Event scheduling, rider profiles, notifications.
 
 ---
 
@@ -75,16 +81,16 @@ I am an **Ethical Hacker** with a passion for **AI, machine learning, Flutter, a
 
 ## 🌟 Contributions
 
-I actively contribute to various open-source projects. Check out my contributions [here](link-to-your-contributions).
+I actively contribute to various open-source projects. Check out my contributions [here](https://github.com/HR10J44T?tab=repositories).
 
 ---
 
 ## 📝 Blog Posts
 
-I occasionally write blog posts on topics related to **cybersecurity, AI, and mobile development**. Check them out:
+I occasionally write blog posts on topics related to **AI**, **cybersecurity**, and **mobile development**. Check them out:
 
-- [Blog Post 1](link-to-your-blog-post)
-- [Blog Post 2](link-to-your-blog-post)
+- [Blog Post 1](https://yourblog.com/post1)
+- [Blog Post 2](https://yourblog.com/post2)
 
 ---
 
