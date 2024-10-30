@@ -42,14 +42,13 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 
 ### Operating Systems
-- ![Windows](https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_logo_-_2012.svg) **Windows**
-- ![Linux](https://upload.wikimedia.org/wikipedia/commons/d/db/Linux_logo.svg) **Linux**
-- ![macOS](https://upload.wikimedia.org/wikipedia/commons/7/7e/MacOS_Sierra_Logo.png) **macOS**
-- ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ubuntu_logo_and_wordmark.svg) **Ubuntu**
-- ![Fedora](https://upload.wikimedia.org/wikipedia/commons/6/6e/Fedora_logo.svg) **Fedora**
-- ![Debian](https://upload.wikimedia.org/wikipedia/commons/e/ec/Debian_logo.svg) **Debian**
-
-
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) **Windows**
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux**
+- ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) **macOS**
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) **Ubuntu**
+- ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white) **Fedora**
+- ![Debian](https://img.shields.io/badge/-Debian-A81D24?style=flat&logo=debian&logoColor=white) **Debian**
+- 
 ---
 
 ## 📈 GitHub Stats
