@@ -59,11 +59,11 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=synthwave)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=dark)
 
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=synthwave)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr10j44t&theme=synthwave" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr10j44t&theme=dark" alt="hr10j44t" /></p>
 
 </div>
 
