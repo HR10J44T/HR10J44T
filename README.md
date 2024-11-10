@@ -64,9 +64,10 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=dark&icon_color=61dafb)
 
-![GitHub Streak](https://git-streak-stats.herokuapp.com/?user=HR10J44T&theme=dark&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api?user=HR10J44T&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 </div>
+
 
 
 ---
