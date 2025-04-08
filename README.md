@@ -1,147 +1,85 @@
-<!-- ████████[ HR10J44T | SYSTEM BREACHED ]████████ -->
+# Hi there, I'm Uday 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=HR10J44T&color=blueviolet)
 
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=███+INTRUSION+DETECTED+███;Initializing+Access+Protocol](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+INTRUSION+DETECTED+%E2%96%88%E2%96%88%E2%96%88;Initializing+Access+Protocol)...;Welcome%2C+HR10J44T." />
+    <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" height="250" width="250"/> <!-- Replace with your image URL -->
 </p>
+
+## 👨‍💻 About Me
+
+I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a passion for **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I love to explore new technologies and improve my skills. Currently, I am focused on developing innovative solutions that make a difference.
+
+- 🔭 I’m currently working on **Cyber Defender Toolkit** and **AI-based Threat Detection** projects.
+- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
+- 👯 I’m looking to collaborate on **cybersecurity projects** and **mobile app development**.
+- 💬 Ask me about **ethical hacking** and **AI technologies**.
+- 📫 How to reach me: [hr10j44t@gmail.com](mailto:hr10j44t@gmail.com)
+- ⚡ Fun fact: I love reverse-engineering software to understand its weaknesses.
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Online-green?style=flat-square&logo=codeberg&logoColor=00FF00" />
-<img src="[https://img.shields.io/badge/Clearance-Level 7-black?style=flat-square&logo=gnuprivacyguard&logoColor=00FF00](https://img.shields.io/badge/Clearance-Level%207-black?style=flat-square&logo=gnuprivacyguard&logoColor=00FF00)" />
-<img src="https://komarev.com/ghpvc/?username=HR10J44T&label=Stealth+Counters&color=00ff00&style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=anaconda,arch,autocad,aws,bash,blender,bots,c,cloudflare,cpp,dart,debian,discord,docker,figma,gcp,git,github,gitlab,gmail,go,grafana,heroku,instagram,js,kali,kotlin,kubernetes,linux,mint,mongodb,mysql,neovim,netlify,nginx,nix,notion,obsidian,opencv,postgres,postman,powershell,python,pytorch,raspberrypi,redhat,regex,ruby,rust,selenium,sqlite,stackoverflow,styledcomponents,tailwind,ts,ubuntu,vercel,vim,vite,vscode,wasm,webpack,windows&theme=dark&perline=9" /><br>
 </p>
 
-<div align="left">
-██╗░░██╗███████╗░██████╗███████╗░██████╗████████╗
-██║░░██║██╔════╝██╔════╝██╔════╝██╔════╝╚══██╔══╝
-███████║█████╗░░╚█████╗░█████╗░░╚█████╗░░░░██║░░░
-██╔══██║██╔══╝░░░╚═══██╗██╔══╝░░░╚═══██╗░░░██║░░░
-██║░░██║███████╗██████╔╝███████╗██████╔╝░░░██║░░░
-╚═╝░░╚═╝╚══════╝╚═════╝░╚══════╝╚═════╝░░░░╚═╝░░░
-</div>
+---
+## 📈 GitHub Stats
+
 <div align="center">
 
-> whoami → HR10J44T
-> 
-> 
-> Role: **Root | SOC | Reverse Engineer**
-> 
-> Clearance Level: **7 (Hypothetical/Fun)**
-> 
-> Motto: *“Exploit. Reconstruct. Fortify.”*
-> 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=dark)
+
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=dark)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr10j44t&theme=dark" alt="hr10j44t" /></p>
 
 </div>
 
 ---
 
-## 🔧 System.Profile
+## 🗂️ Featured Projects
 
-- **Active Ops**
-    - `Cyber_Defender_Toolkit.py` → Offensive/Defensive Suite [Alpha]
-    - `AI_Threat_Intel_Platform.js` → Threat Detection Engine [Beta]
-- **R&D Pipeline**
-    - Deep Learning for Malware Evasion
-    - Behavioral Threat Mapping
-    - Kernel Exploitation Techniques
-- **Available For**
-    - Red/Blue Team Collabs
-    - CTF Challenges (Exploit Dev/Rev Eng)
-    - Secure Android/Flutter Projects
+### [Cyber Defender Toolkit](https://github.com/HR10J44T/Cyber-Defender-Toolkit)
+- **Description:** A suite of tools for penetration testing and vulnerability assessment.
+- **Technologies Used:** Python, Bash
+- **Features:** Real-time scanning, vulnerability assessment, reporting tools.
+
+### [AI-based Threat Detection](https://github.com/HR10J44T/AI-Threat-Detection)
+- **Description:** Using machine learning models to predict and mitigate security threats in real time.
+- **Technologies Used:** Python, TensorFlow
+- **Features:** Predictive analytics, real-time monitoring.
+
+### [Equestrian Eventing App](https://github.com/HR10J44T/Equestrian-App)
+- **Description:** A mobile application tailored for equestrian eventing, enhancing the experience for riders and enthusiasts.
+- **Technologies Used:** Flutter, Dart
+- **Features:** Event scheduling, rider profiles, notifications.
 
 ---
 
-## 🧠 Arsenal
+## 🤝 Connect with Me
 
-```bash
-root@HR10J44T:~# ls /bin/skills
-> Core Languages
-Python 🐍
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- [Personal Website/Blog](https://yourwebsite.com)
 
-JavaScript ⚙️
+---
 
-C++ 🔧
+## 🌟 Contributions
 
-Dart 📱
+I actively contribute to various open-source projects. Check out my contributions [here](https://github.com/HR10J44T?tab=repositories).
 
-Bash 🖥️
+---
 
-> AI/ML Frameworks
-TensorFlow
+## 📝 Blog Posts
 
-Scikit-learn
+I occasionally write blog posts on topics related to **AI**, **cybersecurity**, and **mobile development**. Check them out:
 
-Pandas / NumPy
+- [Blog Post 1](https://yourblog.com/post1)
+- [Blog Post 2](https://yourblog.com/post2)
 
-> Mobile & App Dev
-Flutter
+---
 
-Android Studio
-
-> Cybersecurity Toolkit
-Kali Linux
-
-Burp Suite
-
-Wireshark
-
-Metasploit
-
-Nmap
-
-> DevOps & Infra
-Docker 🐳
-
-Git & GitHub 🔁
-
-VS Code ⌨️
-
-⚔️ Active Operations
-[Project_Hydra] Cyber Defender Toolkit
-🧩 Modular Offensive/Defensive Scripts
-
-🛠 Tech: Python, Bash, Scapy
-
-⚙️ Modules: Network Scanner | Exploit Generator | Recon Bot | Log Analysis
-
-🚧 Status: Alpha (Internal Testing)
-
-[Project_Cerebrus] AI-Powered Threat Detection
-🤖 ML-Driven Threat Recognition Engine
-
-🛠 Tech: Python, TensorFlow, Kafka
-
-🔍 Features: MITRE Mapping | DNS Tunneling Detection | Real-time Alerts
-
-🚧 Status: Beta (Training in Progress)
-
-[Side_Op] Equestrian Eventing App
-🏇 Mobile App (Secure Dev Practices)
-
-🛠 Tech: Flutter, Firebase, Dart
-
-🔐 Features: Auth | Event Tracking | Role-Based Access
-
-✅ Status: Deployed (Passive Maintenance)
-
-📡 Contact Protocol
-bash
-Copy
-Edit
-Secure comms initiated...
-📬 hr10j44t@gmail.com (PGP available on request)
-
-🌐 LinkedIn
-
-🐦 Twitter
-
-🧠 Blog: Coming Soon – Cybersecurity, RE, and ML Defense Chronicles
-
-☠️ Final Words
-diff
-Copy
-Edit
-- Boredom
-+ Challenge
-// Reach out if you're building:
-Red Team Tools | AI Defense Systems | Secure Architectures | Reverse Engineering Playgrounds
-```
+Thank you for visiting my profile! 😊
