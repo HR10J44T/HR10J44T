@@ -19,7 +19,12 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,arch,autocad,aws,bash,blender,bots,c,cloudflare,cpp,dart,debian,discord,docker,figma,gcp,git,github,gitlab,gmail,go,grafana,heroku,instagram,js,kali,kotlin,kubernetes,linux,mint,mongodb,mysql,neovim,netlify,nginx,nix,notion,obsidian,opencv,postgres,postman,powershell,python,pytorch,raspberrypi,redhat,regex,ruby,rust,selenium,sqlite,stackoverflow,styledcomponents,tailwind,ts,ubuntu,vercel,vim,vite,vscode,wasm,webpack,windows&theme=dark&perline=9" /><br>
+</p>
+
 
 ### Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python
@@ -34,7 +39,7 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 ---
 
-## 🧰 Tools
+## 
 
 ### Platforms
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
