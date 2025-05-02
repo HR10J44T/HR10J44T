@@ -61,9 +61,9 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/udayakahr10j44t)
+- [Twitter](https://twitter.com/hr10j44t)
+- [Medium](https://medium.com/@hr10j44t)
 
 ---
 
@@ -77,8 +77,8 @@ I actively contribute to various open-source projects. Check out my contribution
 
 I occasionally write blog posts on topics related to **AI**, **cybersecurity**, and **mobile development**. Check them out:
 
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
+- [Blog Post 1](https://medium.com/@hr10j44t/mastering-prompt-design-in-vertex-ai-a-practical-guide-ba9e192c7995)
+- [Blog Post 2](https://medium.com/@hr10j44t/build-real-world-ai-applications-with-gemini-and-imagen-33268925705e)
 
 ---
 
