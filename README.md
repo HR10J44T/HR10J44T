@@ -77,8 +77,8 @@ I actively contribute to various open-source projects. Check out my contribution
 
 I occasionally write blog posts on topics related to **AI**, **cybersecurity**, and **mobile development**. Check them out:
 
-- [Blog Post 1](https://medium.com/@hr10j44t/mastering-prompt-design-in-vertex-ai-a-practical-guide-ba9e192c7995)
-- [Blog Post 2](https://medium.com/@hr10j44t/build-real-world-ai-applications-with-gemini-and-imagen-33268925705e)
+- [Mastering Prompt Design in Vertex AI: A Practical Guide](https://medium.com/@hr10j44t/mastering-prompt-design-in-vertex-ai-a-practical-guide-ba9e192c7995)
+- [Build Real-World AI Applications with Gemini and Imagen](https://medium.com/@hr10j44t/build-real-world-ai-applications-with-gemini-and-imagen-33268925705e)
 
 ---
 
