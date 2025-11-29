@@ -1,6 +1,5 @@
 # Hi there, I'm Uday 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=HR10J44T&color=blueviolet)
 
 <p align="center">
     <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" height="250" width="250"/> <!-- Replace with your image URL -->
@@ -8,6 +7,9 @@
 
 <p align="center"><a href="https://discord.com/users/1163048021202849792"><img src="https://lanyard.cnrad.dev/api/1163048021202849792"></a></p>
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hr10j44t&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
+<br>
 
 ## 👨‍💻 About Me
 
