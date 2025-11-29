@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a passion for **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I love to explore new technologies and improve my skills. Currently, I am focused on developing innovative solutions that make a difference.
+I am a **Cyber Security Enthusiast and Tool Developer** with a strong passion for **AI**, **Machine Learning**, and **security-focused innovation**. I love exploring new technologies and building smart, efficient solutions that strengthen digital systems and solve real-world problems.
 
-- 🔭 I’m currently working on **Cyber Defender Toolkit** and **AI-based Threat Detection** projects.
-- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
-- 👯 I’m looking to collaborate on **cybersecurity projects** and **mobile app development**.
-- 💬 Ask me about **ethical hacking** and **AI technologies**.
+- 🔭 I’m currently working on the **Cyber Defender Toolkit** and developing **AI-driven Threat Detection** solutions.
+- 🌱 I’m expanding my expertise in **Machine Learning** and **Deep Learning**.
+- 👯 I’m open to collaborating on **Cybersecurity initiatives**, **AI research**, and **Tool Development**.
+- 💬 Feel free to reach out regarding **Cyber Security**, **AI technologies**, or related technical domains.
 - 📫 How to reach me: [hr10j44t@gmail.com](mailto:hr10j44t@gmail.com)
 - ⚡ Fun fact: I love reverse-engineering software to understand its weaknesses.
 
@@ -49,14 +49,6 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 - **Description:** A mobile application tailored for equestrian eventing, enhancing the experience for riders and enthusiasts.
 - **Technologies Used:** Flutter, Dart
 - **Features:** Event scheduling, rider profiles, notifications.
-
----
-
-## 🤝 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/udayakahr10j44t)
-- [Twitter](https://twitter.com/hr10j44t)
-- [Medium](https://medium.com/@hr10j44t)
 
 ---
 
