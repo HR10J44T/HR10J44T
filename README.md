@@ -8,7 +8,7 @@
 <p align="center"><a href="https://discord.com/users/1163048021202849792"><img src="https://lanyard.cnrad.dev/api/1163048021202849792"></a></p>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hr10j44t&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hr10j44t&label=Profile%20views&color=0e75b6&style=flat" alt="HR10J44T" /> </p>
 <br>
 
 ## 👨‍💻 About Me
@@ -33,19 +33,8 @@ I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a
 ---
 ## 📈 GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HR10J44T&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR10J44T&layout=compact&theme=dark" alt="Top Languages" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HR10J44T&theme=dark" alt="GitHub Streak" />
-
-</div>
-
+<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=HR10J44T&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="HR10J44T" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HR10J44T&theme=dracula&hide_border=true" alt="HR10J44T" /></p>
 
 ---
 
