@@ -5,9 +5,10 @@
 <p align="center">
     <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" height="250" width="250"/> <!-- Replace with your image URL -->
 </p>
-<p align="center">
-![Discord Presence](https://lanyard.cnrad.dev/api/1163048021202849792)](https://discord.com/users/1163048021202849792)
-</p>
+
+<p align="center"><a href="https://discord.com/users/1163048021202849792"><img src="https://lanyard.cnrad.dev/api/1163048021202849792"></a></p>
+
+
 ## 👨‍💻 About Me
 
 I am an **Ethical Hacker, AI/ML Enthusiast, Flutter & Android Developer** with a passion for **AI**, **machine learning**, **ethical hacking**, and **mobile app development**. I love to explore new technologies and improve my skills. Currently, I am focused on developing innovative solutions that make a difference.
