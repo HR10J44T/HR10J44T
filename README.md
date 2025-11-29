@@ -6,7 +6,7 @@
     <img src="https://github.com/HR10J44T/HR10J44T/blob/main/HR10J44T.png" alt="HR10J44T Banner" height="250" width="250"/> <!-- Replace with your image URL -->
 </p>
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1163048021202849792)](https://discord.com/users/1163048021202849792)
+![Discord Presence](https://lanyard.cnrad.dev/api/1163048021202849792)](https://discord.com/users/1163048021202849792)
 </p>
 ## 👨‍💻 About Me
 
