@@ -35,20 +35,15 @@ I am a **Cyber Security Enthusiast and Tool Developer** with a strong passion fo
 
 ## 🗂️ Featured Projects
 
-### [Cyber Defender Toolkit](https://github.com/HR10J44T/Cyber-Defender-Toolkit)
-- **Description:** A suite of tools for penetration testing and vulnerability assessment.
-- **Technologies Used:** Python, Bash
-- **Features:** Real-time scanning, vulnerability assessment, reporting tools.
+### [TelecomSOC-X — Real-Time Telecom SOC Platform](https://github.com/HR10J44T/telecom-soc-x)
+- **Description:** A telecom-grade SOC system for real-time analysis of Linux and network logs to detect and respond to security threats.
+- **Technologies Used:** Python, Bash, Streamlit, Docker.
+- **Features:** Brute force and port scan detection, anomaly detection, AI-driven threat analysis, automated alerting and response workflows, real-time monitoring dashboard.
 
-### [AI-based Threat Detection](https://github.com/HR10J44T/AI-Threat-Detection)
-- **Description:** Using machine learning models to predict and mitigate security threats in real time.
-- **Technologies Used:** Python, TensorFlow
-- **Features:** Predictive analytics, real-time monitoring.
-
-### [Equestrian Eventing App](https://github.com/HR10J44T/Equestrian-App)
-- **Description:** A mobile application tailored for equestrian eventing, enhancing the experience for riders and enthusiasts.
-- **Technologies Used:** Flutter, Dart
-- **Features:** Event scheduling, rider profiles, notifications.
+### [AutoNOC-X — Self-Healing Network Automation System](https://github.com/HR10J44T/autonoc-x)
+- **Description:** A Linux-based network automation system designed to monitor services and automatically recover from failures to minimize downtime.
+- **Technologies Used:** Python, Bash, Streamlit
+- **Features:** Service monitoring (HTTP, SSH, DNS), system health tracking, rule-based auto-recovery engine, automated incident response, network health visualization dashboard.
 
 ---
 
