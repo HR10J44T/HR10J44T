@@ -19,7 +19,8 @@ I am a **Cyber Security Enthusiast and Tool Developer** with a strong passion fo
 
 ---
 
-## 🛠️ Tools & Technologies
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,arch,autocad,aws,bash,blender,bots,c,cloudflare,cpp,dart,debian,discord,docker,figma,gcp,git,github,gitlab,gmail,go,grafana,heroku,instagram,js,kali,kotlin,kubernetes,linux,mint,mongodb,mysql,neovim,netlify,nginx,nix,notion,obsidian,opencv,postgres,postman,powershell,python,pytorch,raspberrypi,redhat,regex,ruby,rust,selenium,sqlite,stackoverflow,styledcomponents,tailwind,ts,ubuntu,vercel,vim,vite,vscode,wasm,webpack,windows&theme=dark&perline=9" /><br>
