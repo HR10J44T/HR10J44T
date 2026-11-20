@@ -34,32 +34,9 @@ I am a **Cyber Security Enthusiast and Tool Developer** with a strong passion fo
 
 ---
 
-## 🗂️ Featured Projects
-
-### [TelecomSOC-X — Real-Time Telecom SOC Platform](https://github.com/HR10J44T/telecom-soc-x)
-- **Description:** A telecom-grade SOC system for real-time analysis of Linux and network logs to detect and respond to security threats.
-- **Technologies Used:** Python, Bash, Streamlit, Docker.
-- **Features:** Brute force and port scan detection, anomaly detection, AI-driven threat analysis, automated alerting and response workflows, real-time monitoring dashboard.
-
-### [AutoNOC-X — Self-Healing Network Automation System](https://github.com/HR10J44T/autonoc-x)
-- **Description:** A Linux-based network automation system designed to monitor services and automatically recover from failures to minimize downtime.
-- **Technologies Used:** Python, Bash, Streamlit
-- **Features:** Service monitoring (HTTP, SSH, DNS), system health tracking, rule-based auto-recovery engine, automated incident response, network health visualization dashboard.
-
----
-
 ## 🌟 Contributions
 
 I actively contribute to various open-source projects. Check out my contributions [here](https://github.com/HR10J44T?tab=repositories).
-
----
-
-## 📝 Blog Posts
-
-I occasionally write blog posts on topics related to **AI**, **cybersecurity**, and **mobile development**. Check them out:
-
-- [Mastering Prompt Design in Vertex AI: A Practical Guide](https://medium.com/@hr10j44t/mastering-prompt-design-in-vertex-ai-a-practical-guide-ba9e192c7995)
-- [Build Real-World AI Applications with Gemini and Imagen](https://medium.com/@hr10j44t/build-real-world-ai-applications-with-gemini-and-imagen-33268925705e)
 
 ---
 
